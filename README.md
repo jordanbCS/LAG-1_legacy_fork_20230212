@@ -72,5 +72,5 @@ LAG-1, as first committed, has been tested on versions of Matlab dating as far b
 
 ## Demonstration videos  
 
-https://vault.sfu.ca/index.php/s/lQAIWUoCZhmEYun  
-
+  
+https://github.com/jordanbCS/LAG-1_legacy_fork_20230212/tree/main/media  
