@@ -3,7 +3,9 @@
 A free and open source MATLAB implementation of the integration
 of learning, attention and gaze during category learning (LAG-1, Barnes, Blair, Walshe & Tupper, 2022).  
 
-https://dx.plos.org/10.1371/journal.pone.0259511  
+https://doi.org/10.1371/journal.pone.0259511  
+
+[LAG-1 final publication proof](https://github.com/jordanbCS/LAG-1_legacy_fork_20230212/blob/main/Barnes%20et%20al.%20-%202022%20-%20LAG-1%20A%20dynamic%2C%20integrative%20model%20of%20learning-comments_edit2_with_SI.pdf)  
 
 --------------------------------------------------------------------------------
 
@@ -21,7 +23,7 @@ standalone application. It is so named to highlight the important connections be
 
 You can download the latest version of LAG-1 from the git repository at:
 
-https://github.com/SFU-Cognitive-Science-Lab/LAG-1
+https://github.com/jordanbCS/LAG-1_legacy_fork_20230212  
 
 
 ## INSTALLATION
