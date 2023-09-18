@@ -7,6 +7,7 @@ https://doi.org/10.1371/journal.pone.0259511
 
 [LAG-1 final publication proof](https://github.com/jordanbCS/LAG-1_legacy_fork_20230212/blob/main/Barnes%20et%20al.%20-%202022%20-%20LAG-1%20A%20dynamic%2C%20integrative%20model%20of%20learning-comments_edit2_with_SI.pdf)  
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8929614/
 --------------------------------------------------------------------------------
 
 Version 1.0
